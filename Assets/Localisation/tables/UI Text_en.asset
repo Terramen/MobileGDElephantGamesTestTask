@@ -26,6 +26,10 @@ MonoBehaviour:
     m_Localized: First Scene
     m_Metadata:
       m_Items: []
+  - m_Id: 7937677721600
+    m_Localized: Second Scene
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []
