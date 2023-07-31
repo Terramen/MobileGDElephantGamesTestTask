@@ -386,6 +386,10 @@ PrefabInstance:
       propertyPath: m_text
       value: First Scene
       objectReference: {fileID: 0}
+    - target: {fileID: 650518402836893593, guid: 485803b473596f04fae2994e114913d2, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 650518402836893595, guid: 485803b473596f04fae2994e114913d2, type: 3}
       propertyPath: m_Name
       value: first_scene
